@@ -14,4 +14,4 @@ Router.post("/signup", function(req,res){
     })
 })
 
-
+Router.listen(port)
