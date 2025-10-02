@@ -1,39 +1,127 @@
-## This folder contains the learning curve of the PHP(Hypertext pre-processer) programming language ##
+# 📘 PHP Learning Curve
 
-## ROADMAP ##
+Welcome to the complete roadmap for mastering **PHP (Hypertext Preprocessor)** — a powerful server-side scripting language widely used for web development. This repository is structured to guide you from the very basics to advanced concepts, including database integration, object-oriented programming, and building real-world applications.
 
-## Chapter-0 : History of PHP and its use case in server side developemnt.
-## Chapter-1 : Introduction to PHP & PHP installation and setup.
-## Chapter-2 : XAMPP Server installation and setup.
-## Chapter-3 : Create necessary files on XAMPP server.
-## Chapter-4 : validate PHP executable path.
-## Chapter-5 : VScode extensions.
-## Chapter-6 : Access to XAMPP dashboard.
-## Chapter-7 : Creating a PHP script.
-## Chapter-8 : Installing live server in local browser.
-## Chapter-9 : What is echo statement.
-## Chapter-10: How to add comments in PHP.
-## Chapter-11: Variable and data-types in PHP.
-## Chapter-12: Arithmetic operations in PHP.
-## Chapter-13: $_GET and $_POST requests in PHP.
-## Chapter-14: Maths functions in PHP.
-## Chapter-15: If and Elseif statements in PHP.
-## Chapter-16: Logical operators PHP.
-## Chapter-17: Switch cases in PHP. 
-## Chapter-18: For loops in PHP.
-## Chapter-19: Arrays and Associative arrays in PHP.
-## Chapter-20: isset() and empty() functions in PHP.
-## Chapter-21: Radio buttons and checkboxes in PHP.
-## Chapter-22: Functions in PHP.
-## Chapter-23: Srting functions.
-## Chapter-24: Sanitize / Validate inputs.
-## Chapter-25: include() functions in PHP.
-## Chapter-26: $_COOKIE in PHP.
-## Chapter-27: $_SESSION in PHP.
-## Chapter-28: $_SERVER in PHP.
-## Chapter-29: Password hasshing in PHP.
-## Chapter-30: PHP connection to MySQL database.
-## Chapter-31: PHP MyAdmin create a table.
-## Chapter-32: PHP insert into MySQL database.
-## Chapter-33: PHP query MySQL database.
-## Chapter-34: PHP registration form project.
+---
+
+## 🚀 Roadmap Overview
+
+Each chapter builds upon the previous one, ensuring a smooth and progressive learning experience.
+
+### 🧭 Foundation & Setup
+
+----------------------------------------------
+| Chapter |             Title                |
+|-------- |----------------------------------|
+| 0 | History of PHP & Server-Side Use Cases |
+| 1 | Introduction to PHP & Installation     |
+| 2 | XAMPP Server Setup                     |
+| 3 | Creating Files on XAMPP                |
+| 4 | Validating PHP Executable Path         |
+| 5 | VSCode Extensions for PHP              |
+| 6 | Accessing XAMPP Dashboard              |
+| 7 | Writing Your First PHP Script          |
+| 8 | Installing Live Server                 |
+----------------------------------------------
+
+### 🗣️ Basics of PHP Syntax
+------------------------------------
+| Chapter |         Title          |
+|----|-----------------------------|
+| 9  | Echo Statement              |
+| 10 | Comments in PHP             |
+| 11 | Variables & Data Types      |
+| 12 | Arithmetic Operations       |
+| 13 | $_GET and $_POST Requests   |
+| 14 | Math Functions              |
+| 15 | If & Elseif Statements      |
+| 16 | Logical Operators           |
+| 17 | Switch Cases                |
+| 18 | For Loops                   |   
+| 19 | Arrays & Associative Arrays |
+| 20 | isset() & empty() Functions |
+------------------------------------
+
+### 🧩 Forms & Functions
+---------------------------------------------
+| Chapter | Title                           |
+|---------|---------------------------------|
+| 21      | Radio Buttons & Checkboxes      |
+| 22      | Functions in PHP                |
+| 23      | String Functions                |
+| 24      | Input Sanitization & Validation |
+| 25      | include() Function              |
+---------------------------------------------
+
+
+### 🍪 Superglobals & Sessions
+------------------------------
+| Chapter | Title            |
+|---------|------------------|
+| 26      | $_COOKIE         |
+| 27      | $_SESSION        |
+| 28      | $_SERVER         |
+| 29      | Password Hashing |
+------------------------------
+
+
+### 🗄️ MySQL Integration
+-------------------------------------------
+| Chapter |             Title             |
+|---------|-------------------------------|
+| 30      | Connecting PHP to MySQL       |
+| 31      | Creating Tables in phpMyAdmin |
+| 32      | Inserting Data                |
+| 33      | Querying the Database         |
+| 34      | Registration Form Project     |
+-------------------------------------------
+
+## 🧠 Advanced Topics
+------------------------------------------
+| Chapter| Title                         |
+|--------|-------------------------------|
+| 35     | Constants                     |
+| 36     | Type Casting                  |
+| 37     | Operators                     |
+| 38     | Date & Time                   |
+| 39     | File Handling                 |
+| 40     | Error Handling                |
+| 41     | OOP Basics                    |
+| 42     | Inheritance                   |
+| 43     | Interfaces & Traits           |
+| 44     | Namespaces & Autoloading      |
+| 45     | JSON Handling                 |
+| 46     | XML Parsing                   |
+| 47     | File Upload                   |
+| 48     | Sending Emails                |
+| 49     | REST API                      |
+| 50     | AJAX                          |
+| 51     | Composer                      |
+| 52     | MVC Architecture Introduction |
+------------------------------------------
+
+## 📂 File Structure
+
+
+
+### FINAL CONTRIBUTION ###
+
+
+---
+
+## 🧑‍💻 Author
+
+Crafted with ❤️ by [Amogh] 
+Second-year AI & ML student at Birmingham City University
+
+---
+
+## 📬 Contributions & Feedback
+
+Feel free to fork, raise issues, or suggest improvements. Whether you're a beginner or an expert, your input is welcome!
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
